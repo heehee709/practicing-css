@@ -22,3 +22,7 @@
     padding: 24px;
 }
 
+.row{
+    width: 100%;
+    max-width: 200px;
+}
